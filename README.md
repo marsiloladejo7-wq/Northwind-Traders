@@ -2,20 +2,20 @@
 A Power BI project that examine sales and order data for Northwind Traders, a gourmet food supplier, simplifying complex information to facilitate strategic decision-making.
 
 ## Table of Content
-- [Project Overview](https://github.com/OchukoEjemudaro/Northwind-Traders#northwind-traders-sales-analysis)
-- [Project Scope](https://github.com/OchukoEjemudaro/Northwind-Traders#project-scope)
-- [Business Objective](https://github.com/OchukoEjemudaro/Northwind-Traders#business-objective)
-- [Document Purpose](https://github.com/OchukoEjemudaro/Northwind-Traders#document-purpose)
-- [Use Case](https://github.com/OchukoEjemudaro/Northwind-Traders?tab=readme-ov-file#use-case)
-- [Skill Demostrated](https://github.com/OchukoEjemudaro/Northwind-Traders#skills-demostrated)
-- [Data Source](https://github.com/OchukoEjemudaro/Northwind-Traders#data-source)
-- [Data Connection Detail](https://github.com/OchukoEjemudaro/Northwind-Traders#data-connection-details)
-- [Data Profilling](https://github.com/OchukoEjemudaro/Northwind-Traders#data-profiling)
-- [Data Cleaning and Process](https://github.com/OchukoEjemudaro/Northwind-Traders#data-cleaning-and-processes)
-- [Data modelling](https://github.com/OchukoEjemudaro/Northwind-Traders#data-modelling)
-- [Data Analysis and Insight](https://github.com/OchukoEjemudaro/Northwind-Traders#data-analysis-and-insight)
-- [Data Visualization](https://github.com/OchukoEjemudaro/Northwind-Traders#data-visualization)
-- [Recommendation](https://github.com/OchukoEjemudaro/Northwind-Traders#recommendation)
+- [Project Overview](https://github.com/marsiloladejo7-wq/Northwind-Traders#project-overview)
+- [Project Scope](https://github.com/marsiloladejo7-wq/Northwind-Traders#project-scope)
+- [Business Objective](https://github.com/marsiloladejo7-wq/Northwind-Traders#business-objective)
+- [Document Purpose](https://github.com/marsiloladejo7-wq/Northwind-Traders#document-purpose)
+- [Use Case](https://github.com/marsiloladejo7-wq/Northwind-Traders#use-case)
+- [Skill Demostrated](https://github.com/marsiloladejo7-wq/Northwind-Traders#skills-demostrated)
+- [Data Source](https://github.com/marsiloladejo7-wq/Northwind-Traders#data-source)
+- [Data Connection Detail](https://github.com/marsiloladejo7-wq/Northwind-Traders#data-connection-details)
+- [Data Profilling](https://github.com/marsiloladejo7-wq/Northwind-Traders#data-profiling)
+- [Data Cleaning and Process](https://github.com/marsiloladejo7-wq/Northwind-Traders#data-cleaning-and-processes)
+- [Data modelling](https://github.com/marsiloladejo7-wq/Northwind-Traders#data-modelling)
+- [Data Analysis and Insight](https://github.com/marsiloladejo7-wq/Northwind-Traders#data-analysis-and-insight)
+- [Data Visualization](https://github.com/marsiloladejo7-wq/Northwind-Traders#data-visualization)
+- [Recommendation](https://github.com/marsiloladejo7-wq/Northwind-Traders#recommendation)
 - [Conclusion](https://github.com/OchukoEjemudaro/Northwind-Traders#conclusion)
 
 ## Project Overview
@@ -467,7 +467,7 @@ After the initial analysis, I took a closer look at how shipping costs change ov
 
 This data visualization was created using Power BI, each visual created displays information for each question in the business objective.
 
-![](https://github.com/OchukoEjemudaro/Northwind-Traders/blob/main/Dashboard.png)
+![](https://github.com/marsiloladejo7-wq/Northwind-Traders/blob/main/Dashboard.png)
 
 You can also interact with the report [Here](https://app.powerbi.com/view?r=eyJrIjoiMDAwZTU2YjQtNTdmYy00Mzk4LTgyYmUtZGY5YjE3ZGM3Njg0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
@@ -518,7 +518,7 @@ Thank You For Reading
 
 I’m interested in a Data Analyst role in an organization where I can showcase my skills, take more responsibilities, continue to learn, an organization that I can grow with, where my work will be highly beneficial to the organization.
 
-You can reach me on ochukoejemudaro@gmail.com or [Twitter](https://twitter.com/iamochuks/) or [LinkedIn](https://www.linkedin.com/in/ochukoejemudaro01)
+You can reach me on marsiloladejo7@gmail.com
 
 THANK YOU
 
